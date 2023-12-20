@@ -14,3 +14,11 @@ https://www.bilibili.com/video/BV1Kr4y1i7ru/?spm_id_from=333.999.0.0
 - [基础篇](./MySQL/1-基础篇.md)
 - [进阶篇](./MySQL/2-进阶篇.md)
 - [运维篇](./MySQL/3-运维篇.md)
+
+### 二、Oracle
+
+**学习网址：**
+
+`安装与卸载`
+
+https://www.bilibili.com/video/BV12Y4y1W7uc?p=1&vd_source=1af4a315446a6c7a9915bdd28c552814
