@@ -14,7 +14,7 @@
 
 ##### 2.1 运行安装文件
 
-![002-Oracle安装目录](D:\Database_Notes\Oracle\images\0-Oracle安装与卸载\002-Oracle安装目录.png)
+![002-Oracle安装目录](./images/0-Oracle安装与卸载/002-Oracle安装目录.png)
 
 ##### 2.2 安装时配置scott用户
 
@@ -56,7 +56,7 @@ https://www.bilibili.com/video/BV12Y4y1W7uc?p=6&vd_source=1af4a315446a6c7a9915bd
 
 ##### 3.1 注册
 
-[plsql14注册码](‪./information/PLSQL/plsql14注册码.txt)
+[plsql14注册码](./information/PLSQL/plsql14注册码.txt)
 
 ![005-注册](./images/0-Oracle安装与卸载/005-注册.png)
 
