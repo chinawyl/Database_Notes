@@ -68,6 +68,12 @@ https://www.bilibili.com/video/BV12Y4y1W7uc?p=6&vd_source=1af4a315446a6c7a9915bd
 
 ![007-重启连接](./images/0-Oracle安装与卸载/007-重启连接.png)
 
+### 4.Oracle服务手动启动
+
+将Oracle相关服务改为手动启动，其中**ORCL服务**和**监听服务**每次使用Oracle都需要启动
+
+![008-Oracle服务](./images/0-Oracle安装与卸载/008-Oracle服务.png)
+
 # 四、Windows卸载PLSQL
 
 https://www.bilibili.com/video/BV12Y4y1W7uc?p=5&vd_source=1af4a315446a6c7a9915bdd28c552814
